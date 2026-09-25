@@ -69,12 +69,12 @@ export const projects: Project[] = [
 
 export const experience = [
   {
-    company:'Join Venture AI',period:'July 2025 — Present',
+    company:'Minimatic Solutions',period:'July 2025 — Present',
     summary:'Turning Figma designs into responsive Flutter interfaces, integrating REST APIs, and preparing Android and iOS builds for production release.',
     roles:[
-      {title:'Executive Flutter Developer',date:'July 2026 — Present',current:true},
-      {title:'Junior Flutter Developer',date:'October 2025 — June 2026'},
-      {title:'Trainee Flutter Developer',date:'July — September 2025'},
+      // {title:'Executive Flutter Developer',date:'July 2026 — Present',current:true},
+      // {title:'Junior Flutter Developer',date:'October 2025 — June 2026'},
+      {title:'Trainee Flutter Developer',date:'July 2025 — Present'},
     ],tags:['Flutter','REST APIs','Android & iOS'],
   },
   {
