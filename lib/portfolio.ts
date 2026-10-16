@@ -33,10 +33,14 @@ export const projects: Project[] = [
     id: 'pollable', name: 'Pollable', category: 'Social · Polls & community',
     description: 'A social polling app that brings opinions into the conversation. Create polls, explore real-time feeds, and connect through messaging.',
     technologies: ['Flutter', 'REST API', 'RevenueCat', 'Google Pay', 'Apple Pay'], platforms: ['Android','iOS'],
-    status: 'Launch scheduled · October 1, 2026',
+    status: 'Published on Google Play and Apple App Store',
     features: ['Real-time feeds, messaging, and poll creation', 'Poll boosting and subscriptions', 'Deep linking'],
     screenshots: ['poll','feed','create','chat'].map((s,i)=>({src:`/assets/pollable/screenshot-${s}.webp`,label:['Image poll','Feed','Create a poll','Messaging'][i]})),
-    links: [{label:'Project website',url:'https://pollableapp.com/'}],
+    links: [
+      {label:'Google Play',url:'https://play.google.com/store/apps/details?id=com.pollable.app'},
+      {label:'Apple App Store',url:'https://apps.apple.com/us/app/pollable-app/id6764753825'},
+      {label:'Project website',url:'https://pollableapp.com/'}
+    ],
     logo: '/assets/pollable/logo.webp', color: 'violet', featured: true,
   },
   {
