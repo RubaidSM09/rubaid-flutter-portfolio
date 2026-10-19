@@ -6,7 +6,7 @@ export const profile = {
   location: 'Mirpur DOHS, Dhaka, Bangladesh',
   github: 'https://github.com/RubaidSM09',
   linkedin: 'https://www.linkedin.com/in/rubaid-sharif-mahbub-159510313',
-  resume: '/assets/Rubaid_Sharif_Mahbub_CV.pdf',
+  resume: '/assets/Rubaid_CV_Updated.pdf',
   portrait: '/assets/profile/professional-photo.webp',
 };
 
@@ -73,11 +73,20 @@ export const projects: Project[] = [
 
 export const experience = [
   {
-    company:'Minimatic Solutions',period:'July 2025 — Present',
-    summary:'Turning Figma designs into responsive Flutter interfaces, integrating REST APIs, and preparing Android and iOS builds for production release.',
+    company:'Join Venture AI',period:'July 2025 — Present',
+    summary:'Developed and maintained Flutter apps by turning Figma designs into responsive UIs, integrating REST APIs and JSON data, and preparing Android and iOS builds for production releases.',
+    roles:[
+      {title:'Executive Flutter Developer',date:'July 2026 — Present',current:true},
+      {title:'Junior Flutter Developer',date:'October 2025 — June 2026'},
+      {title:'Trainee Flutter Developer',date:'July — September 2025'},
+    ],tags:['Flutter','REST APIs','Android & iOS'],
+  },
+  {
+    company:'Prochesta',period:'February — September 2026',
+    summary:'Worked in a 3-person team to develop and publish a Flutter EdTech app with seven exam modules, REST API and Firebase integration, leaderboards, analytics, and AI-assisted learning.',
     roles:[
       // {title:'Executive Flutter Developer',date:'July 2026 — Present',current:true},
-      {title:'Junior Flutter Developer',date:'July 2025 — Present'},
+      {title:'Junior Flutter Developer',date:'February — September 2026'},
       // {title:'Trainee Flutter Developer',date:'July — September 2025'},
     ],tags:['Flutter','REST APIs','Android & iOS'],
   },
