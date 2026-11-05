@@ -73,21 +73,20 @@ export const projects: Project[] = [
 
 export const experience = [
   {
-    company:'Join Venture AI',period:'July 2025 — Present',
-    summary:'Developed and maintained Flutter apps by turning Figma designs into responsive UIs, integrating REST APIs and JSON data, and preparing Android and iOS builds for production releases.',
-    roles:[
-      {title:'Executive Flutter Developer',date:'July 2026 — Present',current:true},
-      {title:'Junior Flutter Developer',date:'October 2025 — June 2026'},
-      {title:'Trainee Flutter Developer',date:'July — September 2025'},
-    ],tags:['Flutter','REST APIs','Android & iOS'],
-  },
-  {
-    company:'Prochesta',period:'February — September 2026',
-    summary:'Worked in a 3-person team to develop and publish a Flutter EdTech app with seven exam modules, REST API and Firebase integration, leaderboards, analytics, and AI-assisted learning.',
+    company:'Prochesta',period:'January 2026 — Present',
+    summary:'Worked in a team to develop and publish a Flutter EdTech app with seven exam modules, REST API and Firebase integration, leaderboards, analytics, and AI-assisted learning.',
     roles:[
       // {title:'Executive Flutter Developer',date:'July 2026 — Present',current:true},
-      {title:'Junior Flutter Developer',date:'February — September 2026'},
+      {title:'Junior Flutter Developer',date:'January 2026 — Present'},
       // {title:'Trainee Flutter Developer',date:'July — September 2025'},
+    ],tags:['Flutter','REST APIs','Android & iOS'],
+  },
+  {company:'Join Venture AI',period:'July 2025 — December 2025',
+    summary:'Developed and maintained Flutter apps by turning Figma designs into responsive UIs, integrating REST APIs and JSON data, and preparing Android and iOS builds for production releases.',
+    roles:[
+      // {title:'Executive Flutter Developer',date:'July 2026 — Present',current:true},
+      {title:'Junior Flutter Developer',date:'October — December 2025'},
+      {title:'Trainee Flutter Developer',date:'July — September 2025'},
     ],tags:['Flutter','REST APIs','Android & iOS'],
   },
   {
