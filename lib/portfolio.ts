@@ -81,7 +81,7 @@ export const experience = [
       // {title:'Trainee Flutter Developer',date:'July — September 2025'},
     ],tags:['Flutter','REST APIs','Android & iOS'],
   },
-  {company:'Ninja Tech',period:'July 2025 — Present',
+  {company:'SYNTH-KO',period:'July 2025 — Present',
     summary:'Developed and maintained Flutter apps by turning Figma designs into responsive UIs, integrating REST APIs and JSON data, and preparing Android and iOS builds for production releases.',
     roles:[
       // {title:'Executive Flutter Developer',date:'July 2026 — Present',current:true},
