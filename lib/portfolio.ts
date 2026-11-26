@@ -81,14 +81,14 @@ export const experience = [
       // {title:'Trainee Flutter Developer',date:'July — September 2025'},
     ],tags:['Flutter','REST APIs','Android & iOS'],
   },
-  // {company:'Join Venture AI',period:'July 2025 — December 2025',
-  //   summary:'Developed and maintained Flutter apps by turning Figma designs into responsive UIs, integrating REST APIs and JSON data, and preparing Android and iOS builds for production releases.',
-  //   roles:[
-  //     // {title:'Executive Flutter Developer',date:'July 2026 — Present',current:true},
-  //     {title:'Junior Flutter Developer',date:'October — December 2025'},
-  //     {title:'Trainee Flutter Developer',date:'July — September 2025'},
-  //   ],tags:['Flutter','REST APIs','Android & iOS'],
-  // },
+  {company:'Minimatic Solutions',period:'July 2025 — Present',
+    summary:'Developed and maintained Flutter apps by turning Figma designs into responsive UIs, integrating REST APIs and JSON data, and preparing Android and iOS builds for production releases.',
+    roles:[
+      // {title:'Executive Flutter Developer',date:'July 2026 — Present',current:true},
+      {title:'Junior Flutter Developer',date:'October 2025 — Present',current:true},
+      {title:'Trainee Flutter Developer',date:'July — September 2025'},
+    ],tags:['Flutter','REST APIs','Android & iOS'],
+  },
   {
     company:'Inception Studio',period:'May — August 2025',
     summary:'Hands-on training in Unity workflows, interactive design, and game-development concepts.',
